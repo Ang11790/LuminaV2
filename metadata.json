@@ -1,0 +1,6 @@
+{
+  "name": "Lumina · Galería de arte digital",
+  "description": "Galería de arte digital, obras de edición limitada, exposiciones, artistas y talleres creativos en Colombia.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
